@@ -79,4 +79,4 @@ Les résultats montrent que la **régression logistique** a légèrement surpass
 - **SVM** : Performances comparables mais légèrement inférieures en précision.
 
 ## Auteurs
-- **Rydouane Simboro** – [LinkedIn](https://www.linkedin.com/in/rydouane-simboro)
+- **Rydouane Simboro** – [LinkedIn](www.linkedin.com/in/rydouane-simboro-224b222a3)
